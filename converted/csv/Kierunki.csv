@@ -1,0 +1,34 @@
+id,wydzial,wydzial_short,kierunek,kierunek_short,finished
+1.0,Architektury,WA,Architecture (Architektura),ARCH(EN),1.0
+2.0,Architektury,WA,Architektura,ARCH,1.0
+3.0,Budownictwa i Inżynierii Środowiska,WBIIS,Budownictwo,BUD,1.0
+4.0,Budownictwa i Inżynierii Środowiska,WBIIS,Inżynieria środowiska,INB,1.0
+5.0,Budowy Maszyn i Zarządzania,WBMIZ,Inżynieria biomedyczna,INS,1.0
+6.0,Budowy Maszyn i Zarządzania,WBMIZ,Inżynieria materiałowa,INM,1.0
+7.0,Budowy Maszyn i Zarządzania,WBMIZ,Mechanika i budowa maszyn,WBM,1.0
+8.0,Budowy Maszyn i Zarządzania,WBMIZ,Mechatronika,MECH,1.0
+9.0,Budowy Maszyn i Zarządzania,WBMIZ,Zarządzanie i inżynieria produkcji,ZIIP,1.0
+10.0,Elektryczny,WE,Automatic Control and Robotics (Automatyka i robotyka),EAIR(EN),1.0
+11.0,Elektryczny,WE,Automatyka i robotyka,EAIR,1.0
+12.0,Elektryczny,WE,Energetyka,ERG,1.0
+13.0,Elektryczny,WE,Elektrotechnika,ETECH,1.0
+14.0,Elektryczny,WE,Informatyka,EINF,1.0
+15.0,Elektryczny,WE,Matematyka w technice,MWT,1.0
+16.0,Elektroniki i Telekomunikacji,WEiT,Electronics and Telecommunications - Information and Communication Technologies,EiT(EN),1.0
+17.0,Elektroniki i Telekomunikacji,WEiT,Elektronika i Telekomunikacja,EIT,1.0
+18.0,Elektroniki i Telekomunikacji,WEiT,Teleinformatyka,TINF,1.0
+19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI,1.0
+20.0,Fizyki Technicznej,WFT,Fizyka techniczna,FTCH,1.0
+21.0,Informatyki,WI,Automatyka i robotyka,AIR,1.0
+22.0,Informatyki,WI,Bioinformatyka,BINF,1.0
+23.0,Informatyki,WI,Informatyka,INF,1.0
+24.0,Inżynierii Zarządzania,WIZ,Engineering Management - Engineering with Commerce,INZZ(EN),1.0
+25.0,Inżynierii Zarządzania,WIZ,Inżynieria bezpieczeństwa,INZB,1.0
+26.0,Inżynierii Zarządzania,WIZ,Inżynieria zarządzania,INZZ,1.0
+27.0,Inżynierii Zarządzania,WIZ,Logistyka,LOG,1.0
+28.0,Maszyn Roboczych i Transportu,WMRiT,Lotnictwo i Kosmonautyka,LOTK,1.0
+29.0,Maszyn Roboczych i Transportu,WMRiT,Mechanika i budowa maszyn,MBMT,1.0
+30.0,Maszyn Roboczych i Transportu,WMRiT,Transport,TNT,1.0
+31.0,Technologii Chemicznej,WTCh,Inżynieria chemiczna i procesowa,ICHP,1.0
+32.0,Technologii Chemicznej,WTCh,Technologia chemiczna,TECH,1.0
+33.0,Technologii Chemicznej,WTCh,Technologie ochrony środowiska,TOS,1.0

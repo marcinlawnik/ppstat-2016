@@ -1,0 +1,13 @@
+id,nazwisko,imie,drugie_imie,imie_ojca,liczba_punktow,decyzja,jedna_gwiazdka,dwie_gwiazdki,kierunek_id
+1.0,Boruta,Klaudia,Weronika,Wojciech,495.0,Przyjęty,0.0,0.0,1.0
+2.0,Gajewski,Hubert,Michał,Michał,660.0,Przyjęty,0.0,0.0,1.0
+3.0,Gleń,Anna,Małgorzata,Wojciech,481.0,Przyjęty,0.0,0.0,1.0
+4.0,Janułajtys,Julia,Magdalena,Marek,505.0,Przyjęty,0.0,0.0,1.0
+5.0,Kałuża,Małgorzata,Magdalena,Roman,493.0,Przyjęty,0.0,0.0,1.0
+6.0,Łochowska,Natalia,Anna,Mariusz,568.0,Przyjęty,0.0,0.0,1.0
+7.0,Łukaszewicz,Olga,,Marcin,402.5,Przyjęty,0.0,0.0,1.0
+8.0,Novitska,Ivanna,,Viktor,380.0,Przyjęty,0.0,0.0,1.0
+9.0,Pakuła,Aleksandra,Maria,Piotr,530.0,Przyjęty,0.0,0.0,1.0
+10.0,Sidarevich,Darya,,Aleh,620.0,Przyjęty,0.0,0.0,1.0
+11.0,Wróblewska,Paula,Weronika,Paweł,848.0,Przyjęty,0.0,0.0,1.0
+12.0,Zaleśny,Michał,Stanisław,Marek,493.0,Przyjęty,0.0,0.0,1.0

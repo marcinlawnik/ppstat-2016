@@ -1,0 +1,20 @@
+id,nazwisko,imie,drugie_imie,imie_ojca,liczba_punktow,decyzja,jedna_gwiazdka,dwie_gwiazdki,kierunek_id,wydzial,wydzial_short,kierunek,kierunek_short
+1.0,Karzkowiak,Adam,Tomasz,Tomasz,312.0,Przyjęty,0.0,0.0,16.0,Elektroniki i Telekomunikacji,WEiT,"Electronics and Telecommunications - Information and 
+Communication Technologies",EIT(EN)
+2.0,Nowakowski,Shane,,Piotr,700.0,Przyjęty,0.0,0.0,16.0,Elektroniki i Telekomunikacji,WEiT,"Electronics and Telecommunications - Information and 
+Communication Technologies",EIT(EN)
+3.0,Połomski,Patryk,Łukasz,Bohdan,222.5,Przyjęty,0.0,0.0,16.0,Elektroniki i Telekomunikacji,WEiT,"Electronics and Telecommunications - Information and 
+Communication Technologies",EIT(EN)
+4.0,"Rębiś-
+Hernandez",Marco,Antonio,Marek,382.5,Przyjęty,0.0,0.0,16.0,Elektroniki i Telekomunikacji,WEiT,"Electronics and Telecommunications - Information and 
+Communication Technologies",EIT(EN)
+5.0,Smólski,Krystian,,Waldemar,504.5,Przyjęty,0.0,0.0,16.0,Elektroniki i Telekomunikacji,WEiT,"Electronics and Telecommunications - Information and 
+Communication Technologies",EIT(EN)
+6.0,Szałata,Wojciech,Aleksander,Mirosław,581.5,Przyjęty,0.0,0.0,16.0,Elektroniki i Telekomunikacji,WEiT,"Electronics and Telecommunications - Information and 
+Communication Technologies",EIT(EN)
+7.0,Szkudlarek,Michał,,Krzysztof,377.0,Przyjęty,0.0,0.0,16.0,Elektroniki i Telekomunikacji,WEiT,"Electronics and Telecommunications - Information and 
+Communication Technologies",EIT(EN)
+8.0,Świątek,Andrzej,Bartosz,Mariusz,481.5,Przyjęty,0.0,0.0,16.0,Elektroniki i Telekomunikacji,WEiT,"Electronics and Telecommunications - Information and 
+Communication Technologies",EIT(EN)
+9.0,Wróblewski,Hubert,Adam,Jacek,403.5,Przyjęty,0.0,0.0,16.0,Elektroniki i Telekomunikacji,WEiT,"Electronics and Telecommunications - Information and 
+Communication Technologies",EIT(EN)

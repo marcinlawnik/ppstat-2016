@@ -1,0 +1,26 @@
+id,nazwisko,imie,drugie_imie,imie_ojca,liczba_punktow,decyzja,jedna_gwiazdka,dwie_gwiazdki,kierunek_id,wydzial,wydzial_short,kierunek,kierunek_short
+1.0,Artyszko,Kamila,,Andrzej,483.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+2.0,Bajer,Krzysztof,,Michał,725.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+3.0,Bocian,Sandra,Weronika,Paweł,526.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+4.0,Ciemniejewski,Jakub,,Mariusz,593.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+5.0,Dyś,Ada,Barbara,Waldemar,678.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+6.0,Jakubiak,Tomasz,,Jarosław,331.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+7.0,Kapczyński,Damian,,Jacek,320.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+8.0,Karpiński,Konrad,Jarosław,Jarosław,550.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+9.0,Kmiecik,Dawid,Krzysztof,Mirosław,220.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+10.0,Kołodziejski,Marcin,,Zbigniew,284.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+11.0,Kowalczyk,Patryk,Marcin,Marcin,502.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+12.0,Majewska,Magdalena,,Piotr,645.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+13.0,Molenda,Patryk,,Krzysztof,649.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+14.0,Niewęgłowski,Jacek,Maria,Grzegorz,265.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+15.0,Nowak,Dorian,Benon,Mariusz,460.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+16.0,Perz,Grzegorz,,Roman,328.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+17.0,Poturała,Dawid,Paweł,Adam,459.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+18.0,Sobieski,Jakub,Jan,Aleksander,688.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+19.0,Urbaniak,Krzysztof,,Piotr,701.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+20.0,Walędziak,Daniel,Adrian,Bogdan,307.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+21.0,Wilowski,Jakub,Wit,Włodzimierz,543.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+22.0,Winkowska,Dorota,,Roman,270.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+23.0,Włodek,Patryk,Paweł,Marcin,254.5,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+24.0,Zaręba,Michalina,,Tomasz,607.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI
+25.0,Żyto,Radosław,,Ryszard,537.0,Przyjęty,0.0,0.0,19.0,Fizyki Technicznej,WFT,Edukacja techniczno-informatyczna,ETI

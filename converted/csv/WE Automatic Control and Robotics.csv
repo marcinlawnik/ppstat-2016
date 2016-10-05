@@ -1,0 +1,22 @@
+id,nazwisko,imie,drugie_imie,imie_ojca,liczba_punktow,decyzja,jedna_gwiazdka,dwie_gwiazdki,kierunek_id
+1.0,Bajon,Jagoda,Magdalena,Grzegorz,484.0,Przyjęty,0.0,0.0,10.0
+2.0,Banaszczyk,Adam,Andrzej,Karol,677.0,Przyjęty,0.0,0.0,10.0
+3.0,Bogusz,Justyna,,Edward,585.0,Przyjęty,0.0,0.0,10.0
+4.0,Dąbkowski,Rafał,,Mirosław,526.0,Przyjęty,0.0,0.0,10.0
+5.0,Domagalski,Piotr,Kazimierz,Stanisław,468.0,Przyjęty,0.0,0.0,10.0
+6.0,Frankowski,Dominik,Jerzy,Grzegorz,423.0,Przyjęty,0.0,0.0,10.0
+7.0,Kaczyński,Krzysztof,Józef,Maciej,566.0,Przyjęty,0.0,0.0,10.0
+8.0,Karczewski,Kacper,,Arkadiusz,735.0,Przyjęty,0.0,0.0,10.0
+9.0,Kowalewski,Maciej,Michał,Maciej,553.0,Przyjęty,0.0,0.0,10.0
+10.0,Lewandowski,Dawid,Maciej,Zbigniew,520.0,Przyjęty,0.0,0.0,10.0
+11.0,Marszałek,Jakub,,Franciszek,496.0,Przyjęty,0.0,0.0,10.0
+12.0,Michalski,Konrad,,Dariusz,576.0,Przyjęty,0.0,0.0,10.0
+13.0,Michelotto,Zeno Lucio,,"Luca
+Michelotto",540.0,Przyjęty,0.0,0.0,10.0
+14.0,Otomański,Dan,,Tomasz,416.0,Przyjęty,0.0,0.0,10.0
+15.0,Pluta,Szymon,,Piotr,602.0,Przyjęty,0.0,0.0,10.0
+16.0,Stężała,Krzysztof,,Przemysław,794.0,Przyjęty,0.0,0.0,10.0
+17.0,Więckiewicz,Bartłomiej,,Marek,488.0,Przyjęty,0.0,0.0,10.0
+18.0,Wiśniewski,Mateusz,Jeremi,Jarosław,578.0,Przyjęty,0.0,0.0,10.0
+19.0,Wrycz-Rekowski,Jacek,Tomasz,Krzysztof,657.0,Przyjęty,0.0,0.0,10.0
+20.0,Żywanowski,Kamil,Krzysztof,Krzysztof,829.0,Przyjęty,0.0,0.0,10.0
