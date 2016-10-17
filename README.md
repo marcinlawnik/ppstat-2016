@@ -1,5 +1,6 @@
 #ppstat-2016
 #####Analiza przyjętych na Politechnikę Poznańską na studia I stopnia w roku akademickim 2016/2017
+##### Marcin Ławniczak i Marcin Służałek
 
 Streszczenie
 ---
@@ -64,4 +65,29 @@ Aby ułatwić sobie pracę, zaimportowałem wszystkie pliki doc do formatu
 obsługiwanego przez [Google Docs](https://docs.google.com). To pozwoliło mi na
 proste użycie `Ctrl+C` i `Ctrl+V` do skopiowania danych do arkusza Google.
 
+
+###Konwersja do csv
+
+---
+Plik `xlsx` wyeksportowany z Google Docs przy użyciu narzędzia
+[xlsx2csv](https://github.com/dilshod/xlsx2csv) przekonwertowałem do plików
+`csv` zawierających dane poszczególnych kierunków.
+ 
+###Załadowanie do bazy danych
+
+---
+Poszczególne pliki załadowałem do bazy danych przy użyciu skryptu php, dostępnego
+w katalogu `convert/`. Pliki muszą być w folderze `storage/app/`, a potem należy
+uruchomić komendy `php artisan migrate` i `php artisan import:students`.
+
+
 ##Analiza
+
+---
+#####Jakie są najpopularniejsze imiona wśród studentów pierwszego roku PP?
+
+Zapytanie: `SELECT imie, COUNT(imie) FROM students
+            GROUP BY imie
+            ORDER BY COUNT(imie) DESC;`
+
+Wykres pierwszych dziesięciu odpowiedzi:
