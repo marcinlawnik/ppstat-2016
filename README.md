@@ -91,3 +91,4 @@ Zapytanie: `SELECT imie, COUNT(imie) FROM students
             ORDER BY COUNT(imie) DESC;`
 
 Wykres pierwszych dziesięciu odpowiedzi:
+![Wykres1][https://github.com/marcinlawnik/ppstat-2016/blob/master/images/najpopularniejsze_imiona.png]
