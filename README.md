@@ -103,4 +103,4 @@ Zapytanie: `SELECT kierunek_id, AVG(liczba_punktow)
 
 Wykres pierwszych dziesięciu odpowiedzi:
 
-![Wykres1](https://github.com/marcinlawnik/ppstat-2016/blob/master/images/srednia_vs_kierunek.png)
+![Wykres1](https://github.com/marcinlawnik/ppstat-2016/blob/master/images/srednia_vs_kierunek.jpg)
