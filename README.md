@@ -72,7 +72,7 @@ proste użycie `Ctrl+C` i `Ctrl+V` do skopiowania danych do arkusza Google.
 Plik `xlsx` wyeksportowany z Google Docs przy użyciu narzędzia
 [xlsx2csv](https://github.com/dilshod/xlsx2csv) przekonwertowałem do plików
 `csv` zawierających dane poszczególnych kierunków.
- 
+
 ###Załadowanie do bazy danych
 
 ---
@@ -93,3 +93,14 @@ Zapytanie: `SELECT imie, COUNT(imie) FROM students
 Wykres pierwszych dziesięciu odpowiedzi:
 
 ![Wykres1](https://github.com/marcinlawnik/ppstat-2016/blob/master/images/najpopularniejsze_imiona.png)
+
+---
+#####Na jakich kierunkach była najwyższa średnia punktów podczas rekrutacji?
+
+Zapytanie: `SELECT kierunek_id, AVG(liczba_punktow)
+            FROM students WHERE jedna_gwiazdka=0 
+            AND dwie_gwiazdki=0 GROUP BY kierunek_id`
+
+Wykres pierwszych dziesięciu odpowiedzi:
+
+![Wykres1](https://github.com/marcinlawnik/ppstat-2016/blob/master/images/srednia_vs_kierunek.png)
